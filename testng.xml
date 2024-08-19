@@ -4,6 +4,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="practiceTest.AdditionTest"/>
+      <class name="practiceTest.NoOfDigitsTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
